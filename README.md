@@ -2,10 +2,12 @@
 - 👋 Hi, I’m @DinhTrongPhuc
 - 👀 I’m in Viet Nam
 - 🌱 I’m currently learning with Unity Hub
-- 📫 To reach me: - Facebook: https://www.facebook.com/
-                   - Instagram: https://www.instagram.com/pieget.no_me7/
-                  - Email: dnhtrongphuc210104@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact: If you pour water on a rock,...nothing happens
+  
+# 📫 To reach me:
+- Facebook: https://www.facebook.com/
+- Instagram: https://www.instagram.com/pieget.no_me7/
+- Email: dnhtrongphuc210104@gmail.com
 
 
 ## 🌐Socials
