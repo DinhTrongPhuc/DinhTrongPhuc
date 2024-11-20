@@ -1,7 +1,7 @@
 # 💫About Me :
 - 👋 Hi, I’m @DinhTrongPhuc
 - 👀 I’m in Viet Nam
-- 🌱 I’m currently learning with Unity Hub
+- 🌱 I’m currently learning to become a developer
 - ⚡ Fun fact: If you pour water on a rock, ...nothing happens
 
 # 📫 To reach me:
