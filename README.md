@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @DinhTrongPhuc
 - 👀 I’m in Viet Nam
 - 🌱 I’m currently learning to become a developer
-- ⚡ Fun fact: If you pour water on a rock, ...nothing happens
+- ⚡ fact: if you read it, you read it.
 
 # 📫 To reach me:
 - Facebook: [https://www.facebook.com/](https://www.facebook.com/phuc.shu.7)
