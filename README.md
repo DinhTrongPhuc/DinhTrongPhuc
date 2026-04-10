@@ -1,7 +1,7 @@
 # 💫About Me :
 - 👋 Hi, I’m @DinhTrongPhuc
 - 👀 I’m Vietnamese
-- 🌱 I’m Operating Engineering
+- 🌱 I’m Operating/Software Engineering
 - ⚡ fact: There is none of u guys read this fact.
 
 # 📫 To reach me:
