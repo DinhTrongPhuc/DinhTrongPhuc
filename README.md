@@ -1,8 +1,8 @@
 # 💫About Me :
 - 👋 Hi, I’m @DinhTrongPhuc
-- 👀 I’m in Viet Nam
-- 🌱 I’m currently learning to become a developer
-- ⚡ fact: if you read it, you read it.
+- 👀 I’m Vietnamese
+- 🌱 I’m Operating Engineering
+- ⚡ fact: There is none of u guys read this fact.
 
 # 📫 To reach me:
 - Facebook: [https://www.facebook.com/](https://www.facebook.com/phuc.shu.7)
