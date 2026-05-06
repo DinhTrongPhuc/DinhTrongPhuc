@@ -2,7 +2,6 @@
 - 👋 Hi, I’m @DinhTrongPhuc
 - 👀 I’m Vietnamese
 - 🌱 I’m Operating/Software Engineering
-- ⚡ fact: There is none of u guys read this fact.
 
 # 📫 To reach me:
 - Facebook: [https://www.facebook.com/](https://www.facebook.com/phuc.shu.7)
