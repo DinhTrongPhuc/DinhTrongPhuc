@@ -1,8 +1,12 @@
-# 💫About Me :
+<img src="assets/divider.svg" width="100%" alt="divider"/>
 
-- 👋 Hi, I’m @DinhTrongPhuc
-- 👀 I’m Vietnamese
-- 🌱 I’m Junior Backend Developer and Operating/Software Engineering
+# 💫 About Me :
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FE428E&center=true&vCenter=true&multiline=true&width=1000&height=170&lines=My+Name%3A+Dinh+Trong+Phuc%3B%F0%9F%91%80+I%E2%80%99m+Vietnamese%3B%F0%9F%8C%B1+Passionate+about+backend+development+and+shipping+reliable+services)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=FE428E&center=true&vCenter=true&width=920&lines=Junior+Backend+Developer+and+Operating%2FSoftware+Engineering)](https://git.io/typing-svg)
+
+<img src="assets/divider.svg" width="100%" alt="divider"/>
 
 # 📫 To reach me:
 
